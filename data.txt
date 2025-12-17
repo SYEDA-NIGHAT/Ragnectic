@@ -1,0 +1,4 @@
+RAG stands for Retrieval Augmented Generation.
+RAG allows AI models to answer questions using external knowledge.
+It improves accuracy and reduces hallucinations.
+RAG is commonly used in chatbots, search systems, and documentation assistants.
